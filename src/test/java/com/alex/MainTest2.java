@@ -26,6 +26,11 @@ public class MainTest2 {
     }
 
     @Test
+    public void checkLogoPayment(){
+        driverInitialization().checkLogoPaymentSys();
+    }
+
+    @Test
     public void checkLogoPayments() {
         driverInitialization().changeHeaderPaymentHomeInternet();
         driverInitialization().changeHeaderPaymentArrears();
