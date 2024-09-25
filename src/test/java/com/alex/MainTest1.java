@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-
+// Пока делал Allure репорт, понял, что так будет правильнее, поэтому вот...
 
 
 public class MainTest1 {
